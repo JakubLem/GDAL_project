@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 #include "ogrsf_frmts.h"
-
+//chuj
 std::vector<std::vector<double>> readPointShapeFile(const  char* name, const  char* layer)// , double scale)
 {
 	//	double multx = 1.0 / (scale*lon_m_PL);
